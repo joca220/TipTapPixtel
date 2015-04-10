@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="33" height="33" tilewidth="160" tileheight="80">
+ <tileset firstgid="1" name="grass" tilewidth="160" tileheight="80">
+  <image source="grass_01.png" width="160" height="80"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="33" height="33">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3DAQkAAAwEofv+pddjKLhqqqqqqs8fOFVk1AQRAAA=
+  </data>
+ </layer>
+</map>

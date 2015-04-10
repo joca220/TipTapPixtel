@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorations>
+<decoration id="3000" name_Orig="Flowers" name_en="NAME_DECORATION_1" Level="2" costGold="250" costDiamond="0" sellDeco="75" xpWin="2" sprite="flower1.png" />
+<decoration id="3001" name_Orig="Bench" name_en="NAME_DECORATION_2" Level="3" costGold="450" costDiamond="0" sellDeco="135" xpWin="4" sprite="bench.png" />
+<decoration id="3002" name_Orig="Barrels" name_en="NAME_DECORATION_3" Level="5" costGold="0" costDiamond="5" sellDeco="100" xpWin="5" sprite="barrels.png" />
+<decoration id="3002" name_Orig="Birdhouse" name_en="NAME_DECORATION_4" Level="6" costGold="350" costDiamond="0" sellDeco="105" xpWin="3" sprite="birdhouse.png" />
+<decoration id="3003" name_Orig="Flowers" name_en="NAME_DECORATION_5" Level="7" costGold="650" costDiamond="0" sellDeco="195" xpWin="5" sprite="flower2.png" />
+<decoration id="3004" name_Orig="Fontaine" name_en="NAME_DECORATION_6" Level="9" costGold="1000" costDiamond="0" sellDeco="300" xpWin="8" sprite="fontaine.png" />
+<decoration id="3005" name_Orig="Hay" name_en="NAME_DECORATION_7" Level="12" costGold="1000" costDiamond="0" sellDeco="300" xpWin="8" sprite="hay.png" />
+<decoration id="3006" name_Orig="Hedge" name_en="NAME_DECORATION_8" Level="13" costGold="0" costDiamond="7" sellDeco="150" xpWin="7" sprite="hedge.png" />
+<decoration id="3007" name_Orig="Horseshoes" name_en="NAME_DECORATION_9" Level="15" costGold="0" costDiamond="9" sellDeco="250" xpWin="9" sprite="horseshoes.png" />
+<decoration id="3008" name_Orig="Ladybug" name_en="NAME_DECORATION_10" Level="18" costGold="1500" costDiamond="0" sellDeco="450" xpWin="8" sprite="ladybug.png" />
+<decoration id="3009" name_Orig="Lantern" name_en="NAME_DECORATION_11" Level="20" costGold="0" costDiamond="25" sellDeco="700" xpWin="25" sprite="lantern.png" />
+<decoration id="3010" name_Orig="Haybox" name_en="NAME_DECORATION_12" Level="22" costGold="0" costDiamond="15" sellDeco="500" xpWin="15" sprite="haybox.png" />
+<decoration id="3011" name_Orig="Scarecrow" name_en="NAME_DECORATION_13" Level="23" costGold="3500" costDiamond="0" sellDeco="1050" xpWin="10" sprite="scarecrow.png" />
+<decoration id="3012" name_Orig="Stonebath" name_en="NAME_DECORATION_14" Level="26" costGold="0" costDiamond="20" sellDeco="600" xpWin="20" sprite="stonepath.png" />
+<decoration id="3013" name_Orig="Fence" name_en="NAME_DECORATION_15" Level="27" costGold="0" costDiamond="15" sellDeco="500" xpWin="15" sprite="fence.png" />
+</decorations>

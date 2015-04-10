@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="34" height="34" tilewidth="160" tileheight="80">
+ <tileset firstgid="1" name="grass_01" tilewidth="160" tileheight="80">
+  <image source="grass_01.png" width="160" height="80"/>
+ </tileset>
+ <tileset firstgid="2" name="hedge_01" tilewidth="160" tileheight="160">
+  <image source="hedge_01.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="3" name="hedge_02" tilewidth="160" tileheight="160">
+  <image source="hedge_02.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="4" name="hedge_03" tilewidth="160" tileheight="160">
+  <image source="hedge_03.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="5" name="hedge_04" tilewidth="160" tileheight="160">
+  <image source="hedge_04.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="6" name="hedge_05" tilewidth="160" tileheight="160">
+  <image source="hedge_05.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="7" name="hedge_07" tilewidth="160" tileheight="160">
+  <image source="hedge_07.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="8" name="hedge_08" tilewidth="160" tileheight="160">
+  <image source="hedge_08.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="9" name="hedge_06" tilewidth="160" tileheight="160">
+  <image source="hedge_06.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="10" name="street_01" tilewidth="160" tileheight="80">
+  <image source="street_01.png" width="160" height="80"/>
+ </tileset>
+ <tileset firstgid="11" name="street_02" tilewidth="160" tileheight="80">
+  <image source="street_02.png" width="160" height="80"/>
+ </tileset>
+ <tileset firstgid="12" name="street_03" tilewidth="160" tileheight="80">
+  <image source="street_03.png" width="160" height="80"/>
+ </tileset>
+ <tileset firstgid="13" name="street_04" tilewidth="160" tileheight="80">
+  <image source="street_04.png" width="160" height="80"/>
+ </tileset>
+ <tileset firstgid="14" name="street_05" tilewidth="160" tileheight="80">
+  <image source="street_05.png" width="160" height="80"/>
+ </tileset>
+ <tileset firstgid="15" name="walk_01" tilewidth="160" tileheight="160">
+  <image source="walk_01.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="16" name="walk_02" tilewidth="160" tileheight="160">
+  <image source="walk_02.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="17" name="walk_03" tilewidth="160" tileheight="160">
+  <image source="walk_03.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="18" name="walk_04" tilewidth="160" tileheight="160">
+  <image source="walk_04.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="19" name="walk_05" tilewidth="160" tileheight="160">
+  <image source="walk_05.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="20" name="walk_06" tilewidth="160" tileheight="160">
+  <image source="walk_06.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="21" name="pile" tilewidth="160" tileheight="80">
+  <image source="pile.png" width="160" height="80"/>
+ </tileset>
+ <layer name="gras-street" width="34" height="34">
+  <data encoding="base64" compression="zlib">
+   eJzt0TsKACAMBNHY+kXw/mc1ha2SxggyxXRbPNggIoGIvqhrzbGdY2hxlRyyOLJDJ0fVitNHFsc47G6HAwcOHDhw4MCBAweO944JLIQPmw==
+  </data>
+ </layer>
+ <layer name="hedge" width="34" height="34">
+  <data encoding="base64" compression="zlib">
+   eJzt0kkKgDAQBdGgxuEA3v+qZmlJIwoaJFbB32T1GpKSRY1lQ+XNgaM7Ma4336/W62jCUTMd7M+Or/xTHUwH08F0MB1MB9PBdDAdLHJMZXm3Y/mFLU8d1GAbeqUCLw==
+  </data>
+ </layer>
+</map>

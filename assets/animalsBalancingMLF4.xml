@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+<animal id="500" name_Orig="Chicken" name_en="NAME_ANIMAL_1" time="1080" GainXpRecolect="1" GainXpSell="23" GainGoldSell="2" produce="Eggs" cost1="50" cost2="100" cost3="1" cost4="250" cost5="350" cost6="3" cost7="750" cost8="850" cost9="6" cost10="1200" cost11="1450" cost12="9" sprite="chicken.png" />
+<animal id="501" name_Orig="Cow" name_en="NAME_ANIMAL_2" time="3600" GainXpRecolect="1" GainXpSell="35" GainGoldSell="3" produce="Milk" cost1="250" cost2="450" cost3="3" cost4="650" cost5="850" cost6="6" cost7="950" cost8="1250" cost9="9" cost10="1450" cost11="1850" cost12="16" sprite="cow.png" />
+<animal id="502" name_Orig="Pig" name_en="NAME_ANIMAL_3" time="13200" GainXpRecolect="1" GainXpSell="64" GainGoldSell="6" produce="Meat" cost1="650" cost2="850" cost3="6" cost4="1200" cost5="1500" cost6="13" cost7="1850" cost8="2750" cost9="19" cost10="3200" cost11="3450" cost12="22" sprite="pig.png" />
+<animal id="503" name_Orig="Sheep" name_en="NAME_ANIMAL_4" time="21600" GainXpRecolect="1" GainXpSell="42" GainGoldSell="4" produce="Woll" cost1="350" cost2="550" cost3="4" cost4="850" cost5="1050" cost6="9" cost7="1200" cost8="1500" cost9="14" cost10="1800" cost11="1950" cost12="2200" sprite="sheep.png" />
+<animal id="504" name_Orig="Goat" name_en="NAME_ANIMAL_5" time="30000" GainXpRecolect="1" GainXpSell="83" GainGoldSell="8" produce="Goat Milk" cost1="750" cost2="950" cost3="7" cost4="1300" cost5="1750" cost6="14" cost7="1950" cost8="2850" cost9="21" cost10="3500" cost11="4450" cost12="26" sprite="goat.png" />
+</animals>
